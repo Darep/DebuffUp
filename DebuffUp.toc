@@ -1,0 +1,8 @@
+## Interface: 60000
+## Title: DebuffUp
+## Notes: Improves the classic target debuff icons; bigger and with timers
+## Author: Darep
+## SavedVariables: DebuffUpDB
+
+DebuffUp.xml
+DebuffUp.lua
