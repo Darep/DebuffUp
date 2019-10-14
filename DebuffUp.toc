@@ -1,4 +1,4 @@
-## Interface: 60000
+## Interface: 11302
 ## Title: DebuffUp
 ## Notes: Improves the classic target debuff icons; bigger and with timers
 ## Author: Darep

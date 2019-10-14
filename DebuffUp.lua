@@ -82,5 +82,5 @@ end
 -- Cargo culting ends here
 -------------------------------------------------------------------------------
 
-hooksecurefunc("TargetFrame_UpdateAuras", DebuffUp_TargetFrame_UpdateAuras)
-hooksecurefunc("TargetFrame_UpdateAuraPositions", DebuffUp_TargetFrame_UpdateAuraPositions)
+TargetFrame_UpdateAuras = DebuffUp_TargetFrame_UpdateAuras
+TargetFrame_UpdateAuraPositions = DebuffUp_TargetFrame_UpdateAuraPositions
